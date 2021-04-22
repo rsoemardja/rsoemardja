@@ -3,7 +3,7 @@
 **rsoemardja/rsoemardja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://img.shields.io/twitter/follow/rsoemardja?style=social
 
-A Junior Software Developer 
+A Self-taught Software Developer 
 
 - 🔭 I’m currently working on Making a Game
 - 🌱 I’m currently learning Unity and Game Development
@@ -18,7 +18,7 @@ A Junior Software Developer
 
 🧰 Toolbox
 
-
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 ---
 
