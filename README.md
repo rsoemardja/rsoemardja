@@ -1,5 +1,5 @@
 #### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rama Komarudin Soemardja!
-<!--
+
 **rsoemardja/rsoemardja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://img.shields.io/twitter/follow/rsoemardja?style=social
 
@@ -13,12 +13,12 @@ A Junior Software Developer
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ---
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
+
 
 ---
 
