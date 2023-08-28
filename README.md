@@ -1,12 +1,11 @@
 #### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rama Komarudin Soemardja!
 
-**rsoemardja/rsoemardja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://img.shields.io/twitter/follow/rsoemardja?style=social
+I am a Self-taught Software Engineer who has reinvigorated himself with motivation and has applied to a Bootcamp called Lewagon to create untapped potential to get the ideal Career that I longed to seek after my late mother passed away not too long ago.
 
-A Self-taught Software Developer 
+So this is for you
 
-- 🔭 I’m currently working on Making a Game
-- 🌱 I’m currently learning Unity and Game Development
+- 🔭 I’m currently working on Making a Game and Make a Doing Web Development Prepwork in preparation for my Bootcamp Coming October 2nd
+- 🌱 I’m currently learning Fullstack Web Development
 - 📫 How to reach me: You can contact me on Twitter or My website
 
 ---
