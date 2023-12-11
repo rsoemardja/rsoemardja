@@ -1,15 +1,20 @@
-#### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rama Komarudin Soemardja!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rama Komarudin Soemardja!
 
-I am a Self-taught Software Engineer who has reinvigorated himself with motivation and has applied to a Bootcamp called Lewagon to create the untapped potential that I have yet to discover to get the ideal Career that I longed to seek after my late mother passed away not long ago.
-
-So this is for you
-
-- 🔭 I’m currently working on Making a Game and Doing Web Development Personal
-- 🌱 I recently graduated in a  Fullstack Web Development at LeWagon
-- 📫 How to reach me: You can contact me on Twitter or my LinkedIn
-
-
-
+Passionate self-taught Software Engineer committed to continuous learning and growth. Recently graduated from Le Wagon's Fullstack Web Development Bootcamp, I'm eager to apply my skills and make a positive impact in the tech industry.
 
 ---
 
+- 🎓 **Education:**
+  - Self-taught Software Engineer | Le Wagon Fullstack Web Development Graduate
+
+- 🔭 **Current Projects:**
+  - Making a Game: Excitedly developing a game using [technologies/languages].
+  - Web Development Personal: Working on [specific projects or technologies].
+
+- 📫 **How to reach me:**
+  - Twitter: [YourTwitterHandle](https://twitter.com/rsoemardja)
+  - LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/rama-komarudin-soenardja)
+
+---
+
+Looking forward to connecting, collaborating, and exploring new opportunities in the tech world! 🚀
