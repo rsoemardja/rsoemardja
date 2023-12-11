@@ -8,9 +8,6 @@ So this is for you
 - 🌱 I’m currently learning Fullstack Web Development at LeWagon
 - 📫 How to reach me: You can contact me on Twitter or My website
 
----
-
-🧰 Toolbox
 
 
 
