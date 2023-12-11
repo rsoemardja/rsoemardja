@@ -5,8 +5,8 @@ I am a Self-taught Software Engineer who has reinvigorated himself with motivati
 So this is for you
 
 - 🔭 I’m currently working on Making a Game and Doing Web Development Personal
-- 🌱 I’m currently learning Fullstack Web Development at LeWagon
-- 📫 How to reach me: You can contact me on Twitter or My website
+- 🌱 I recently graduated in a  Fullstack Web Development at LeWagon
+- 📫 How to reach me: You can contact me on Twitter or my LinkedIn
 
 
 
