@@ -12,8 +12,8 @@ Passionate self-taught Software Engineer committed to continuous learning and gr
   - Web Development Personal: Working on [specific projects or technologies].
 
 - 📫 **How to reach me:**
-  - Twitter: [YourTwitterHandle](https://twitter.com/rsoemardja)
-  - LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/rama-komarudin-soenardja)
+  - Twitter: [Twitter](https://twitter.com/rsoemardja)
+  - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rama-komarudin-soenardja)
 
 ---
 
