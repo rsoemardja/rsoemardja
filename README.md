@@ -8,8 +8,8 @@ Passionate self-taught Software Engineer committed to continuous learning and gr
   - Self-taught Software Engineer | Le Wagon Fullstack Web Development Graduate
 
 - 🔭 **Current Projects:**
-  - Making a Game: Excitedly developing a game using [technologies/languages].
-  - Web Development Personal: Working on [specific projects or technologies].
+  - Making a Game: Excitedly developing a game using Unity/Unreal/Godot.
+  - Web Development Personal: Working on my Portfolio and React Frontend projects.
 
 - 📫 **How to reach me:**
   - Twitter: [Twitter](https://twitter.com/rsoemardja)
